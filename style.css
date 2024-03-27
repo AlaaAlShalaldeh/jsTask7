@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    background-color: #eee;
+    height: 100vh;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.item{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+
+}
+.item span{
+   background-color: #eee;
+}
